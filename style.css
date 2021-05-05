@@ -1,0 +1,45 @@
+*{
+    margin:30px;
+    background-color:#483D8B;
+  }
+  
+  .contenido{
+    background-color:#483D8B;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+  }
+  .menu {
+    font-family:Candara;
+    color:#7FFFD4;
+    background-color:#483D8B;
+    font-size:20px;
+  }
+  
+  .pag{
+   font-family:Verdana;
+   color:#FFE4B5;
+   text-align:center;
+   
+   
+  }
+  .fotos {
+    background-color:#8B008B;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  img{
+    width:300px;
+    height:300px;
+  }
+  .footer{
+   background: #483D8B;
+   font-family:Verdana;
+   color:#AFEEEE;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+  }
